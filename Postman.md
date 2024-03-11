@@ -15,3 +15,17 @@ It assissts in managing dependencies and building Java Applications that utilize
 ## JAR File
 JAR files are commonly used to package libraries,frameworks and applications.
 Java Archive
+
+
+# Http Client
+used to make httprequests and receive repsonse from the server.
+Includes POST,GET,PUT,DELETE.
+used to send and recieve http requests and responses.
+
+# Http Request
+to represent an request messege
+
+
+# Http REsponse
+Messege sent by the server to an HTTP request
+Basically contains information about request's success or failure.
